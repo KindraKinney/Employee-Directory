@@ -1,0 +1,23 @@
+.wrapper {
+    height: 40%;
+    padding-bottom: 20px;
+    background-image: url("files.jpg");
+    background-size: cover;
+    background-image: no-repeat;
+    background-color: #ABD7FA;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+  
+img {
+  box-shadow: 2px 4px 4px rgb(110, 109, 109);
+  border-radius: 5px;
+}
+
+div.row:nth-child(even) {
+  background-color: rgb(243, 243, 250);
+}
+
+div.row {
+  padding:10px;
+}
